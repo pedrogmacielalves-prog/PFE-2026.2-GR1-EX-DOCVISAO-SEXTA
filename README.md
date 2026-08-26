@@ -11,4 +11,4 @@ Moradores de pequenas comunidades podem encontrar dificuldades para receber prod
 
 ### 2.3 Proposta de solução
 
-Criar um aplicativo de entregas voltado para pequenas comunidades, como ilhas, permitindo que moradores realizem pedidos em estabelecimentos locais e recebam os produtos por meio de entregadores da própria região. A solução busca facilitar o acesso a produtos e serviços, apoiar o comércio local e proporcionar maior comodidade aos moradores.
+A proposta é criar um aplicativo de entregas voltado para pequenas comunidades, como ilhas, permitindo que moradores realizem pedidos em estabelecimentos locais e recebam os produtos por meio de entregadores da própria região. A solução busca facilitar o acesso a produtos e serviços, apoiar o comércio local e proporcionar maior comodidade aos moradores.
