@@ -1,4 +1,4 @@
-﻿# Documento de Visão - IlhaGo 🏝️
+﻿# Documento de Visão - IlhaGo 🏝️🍔🏍️
 ## 1. Introdução
 ### 1.1 Objetivo do documento
 Este documento descreve a visão do **IlhaGo**, um aplicativo de entregas focado em proporcionar uma experiência de compra mais segura para moradores de áreas pequenas, para que eles recebam seus produtos de forma garantida, eficiente e simples.
