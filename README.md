@@ -69,7 +69,7 @@ Diferente dos aplicativos grandes de entrega, o IlhaGo foi pensado para funciona
 - Avaliação da entrega (nota e comentário)
 - Histórico de pedidos
 - Notificações de mudança de status
-- Opção de pagamento via Pix ou dinheiro
+- Opção de pagamento via Pix, dinheiro ou cartão de crédito/débito
 
 ---
 
