@@ -10,13 +10,12 @@ Diferente dos aplicativos grandes de entrega, o IlhaGo foi pensado para funciona
 
 - Cadastro de usuários (moradores e entregadores)
 - Cadastro de comércios locais
-- Solicitação de entrega com descrição do que precisa ser levado
 - Acompanhamento do status da entrega
 - Chat simples entre quem pediu e quem está entregando
 - Avaliação da entrega (nota e comentário)
 - Histórico de pedidos
 - Notificações de mudança de status
-- Opção de pagamento via Pix ou dinheiro
+- Opção de pagamento via Pix, dinheiro ou cartão de crédito/débito
 
 ## 4.3 Diferenciais
 
@@ -37,10 +36,8 @@ Além disso, o aplicativo prioriza a praticidade. A ideia não é competir com i
 
 - O aplicativo só vai funcionar dentro da área geográfica definida (ilha ou comunidade pequena)
 - No primeiro momento, não haverá entrega para fora dessa área
-- A versão inicial será web (acesso pelo navegador), com possibilidade de virar app depois
 - Depende de conexão com a internet para funcionar
 - A quantidade de entregadores no começo pode ser limitada
-- Não terá sistema de pagamento automático com cartão de crédito na primeira versão
 
 ## 6.2 Premissas
 
