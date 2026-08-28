@@ -64,7 +64,6 @@ Diferente dos aplicativos grandes de entrega, o IlhaGo foi pensado para funciona
 ### 4.2 Principais Funcionalidades
 - Cadastro de usuários (moradores e entregadores)
 - Cadastro de comércios locais
-- Solicitação de entrega com descrição do que precisa ser levado
 - Acompanhamento do status da entrega
 - Chat simples entre quem pediu e quem está entregando
 - Avaliação da entrega (nota e comentário)
@@ -133,10 +132,8 @@ O aplicativo deve funcionar com eficiência em conexões lentas e instáveis, qu
 ### 6.1 Restrições
 - O aplicativo só vai funcionar dentro da área geográfica definida (ilha ou comunidade pequena)
 - No primeiro momento, não haverá entrega para fora dessa área
-- A versão inicial será web (acesso pelo navegador), com possibilidade de virar app depois
 - Depende de conexão com a internet para funcionar
 - A quantidade de entregadores no começo pode ser limitada
-- Não terá sistema de pagamento automático com cartão de crédito na primeira versão
 
 ---
 
